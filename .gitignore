@@ -1,0 +1,131 @@
+﻿# Dependencies
+node_modules/
+**/node_modules/
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Databases & local data
+*.db
+*.sqlite
+*.sqlite3
+**/database/
+**/data/
+
+# Uploaded files / face data
+**/uploads/
+**/embeddings/
+**/encodings/
+**/face-data/
+**/face_data/
+
+# Build output
+dist/
+build/
+coverage/
+.cache/
+.vite/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.code-workspace
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*_backup/
+backup/
+backups/
+
+# Archives
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated files
+*.pid
+
+# Separate local projects
+github-dashboard-app/
+github-showcase/
+
+# Project backup files
+*.backup.js
+*.backup.py
+*.backup.jsx
+*.backup.json
+*.backup.css
+*.backup
+*.before-*.js
+*.before-*.jsx
+*.before-*.json
+*.phase2-backup.js
+*.section-backup.js
+*.stable-backup.jsx
+
+# Temporary project files
+tmp_*.txt
+tmp_*.js
+tmp_*.cjs
+
+# Backend test/upload artifacts
+backend/178*.png
+backend/178*.jpg
+backend/178*.jpeg
+
+# AI backup embedding files
+ai-service/embeddings*.json
+ai-service/*backup*.json
+ai-service/*before-*.json
+
+# Old root project files
+/models/
+/package.json
+
+# Editor/system-generated duplicate files
+*-DESKTOP-*.js
+*-DESKTOP-*.jsx
+*-DESKTOP-*.json
+*-DESKTOP-*.py
+*-DESKTOP-*.css
+
+# Source backup variants
+*.encoding-backup.*
+*.mobile-polish-*.*
+*.step*-backup.*
+*.current-backup.*
+*.phase*-backup.*
+*.section-backup.*
+*.stable-backup.*
+*_BACKUP.*
+
+# Remaining backup variants
+*backup*
+*BACKUP*
+
+# Machine-specific environment files
+*-DESKTOP-*.env

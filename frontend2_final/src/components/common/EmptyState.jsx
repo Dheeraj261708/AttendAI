@@ -1,0 +1,1 @@
+export default function EmptyState({ icon:Icon, title, text }) { return <div className="flex min-h-48 flex-col items-center justify-center p-8 text-center"><div className="mb-3 rounded-2xl bg-slate-100 p-4 text-slate-500">{Icon && <Icon size={26}/>}</div><h3 className="font-bold text-slate-800">{title}</h3><p className="mt-1 max-w-sm text-sm text-slate-500">{text}</p></div>; }
