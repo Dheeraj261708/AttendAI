@@ -185,3 +185,26 @@ If a required verification fails, attendance is not recorded.
                     Face Recognition
 
 
+
+## Screenshots
+
+### Login
+![AttendAI Login](docs/screenshots/login.png)
+
+### Student Dashboard
+![Student Dashboard](docs/screenshots/student_dashboard.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](docs/screenshots/Teacher_dashboard.png)
+
+### Session Start
+![Attendance Session Start](docs/screenshots/Session_start.png)
+
+### Attendance Record
+![Attendance Record](docs/screenshots/Attendance_record.png)
+
+### Attendance Marked
+![Attendance Marked](docs/screenshots/Attendance_marked.png)
+
+### Reports & Analytics
+![Reports and Analytics](docs/screenshots/Reports_analytics.png)
