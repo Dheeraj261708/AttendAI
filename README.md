@@ -1,4 +1,4 @@
-\# AttendAI
+\ AttendAI
 
 
 
@@ -14,11 +14,11 @@ The system combines QR-based attendance sessions, face verification, GPS verific
 
 
 
-\## Features
+\ Features
 
 
 
-\### Student
+\ Student
 
 
 
@@ -46,7 +46,7 @@ The system combines QR-based attendance sessions, face verification, GPS verific
 
 
 
-\### Teacher
+\ Teacher
 
 
 
@@ -76,7 +76,7 @@ The system combines QR-based attendance sessions, face verification, GPS verific
 
 
 
-\### Admin
+\ Admin
 
 
 
@@ -98,7 +98,7 @@ The system combines QR-based attendance sessions, face verification, GPS verific
 
 
 
-\## Attendance Verification
+\ Attendance Verification
 
 
 
@@ -132,7 +132,7 @@ If a required verification fails, attendance is not recorded.
 
 
 
-\## System Architecture
+\ System Architecture
 
 
 
@@ -186,21 +186,21 @@ If a required verification fails, attendance is not recorded.
 
 
 
-## Screenshots
+ Screenshots
 
-### Login
+1. Login
 ![AttendAI Login](docs/screenshots/login.png)
 
-### Student Dashboard
+2. Student Dashboard
 ![Student Dashboard](docs/screenshots/student_dashboard.png)
 
-### Teacher Dashboard
+3. Teacher Dashboard
 ![Teacher Dashboard](docs/screenshots/Teacher_dashboard.png)
 
-### Session Start
+4. Session Start
 ![Attendance Session Start](docs/screenshots/Session_start.png)
 
-### Attendance Record
+5. Attendance Record
 ![Attendance Record](docs/screenshots/Attendance_record.png)
 
 ### Attendance Marked
