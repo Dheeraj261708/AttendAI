@@ -1,4 +1,4 @@
-\# AttendAI
+# AttendAI
 
 
 
@@ -14,91 +14,91 @@ The system combines QR-based attendance sessions, face verification, GPS verific
 
 
 
-\## Features
+## Features
 
 
 
-\### Student
+### Student
 
 
 
-\- Secure registration and login
+- Secure registration and login
 
-\- Student profile management
+- Student profile management
 
-\- Department, semester, section, and roll number management
+- Department, semester, section, and roll number management
 
-\- View eligible active attendance sessions
+- View eligible active attendance sessions
 
-\- QR-based attendance
+- QR-based attendance
 
-\- Face verification
+- Face verification
 
-\- GPS-based location verification
+- GPS-based location verification
 
-\- Attendance history
+- Attendance history
 
-\- Attendance summary
+- Attendance summary
 
-\- Notifications
+- Notifications
 
-\- Responsive dashboard
-
-
-
-\### Teacher
+- Responsive dashboard
 
 
 
-\- Secure teacher login
-
-\- Teacher profile management
-
-\- Create attendance sessions
-
-\- Configure attendance duration
-
-\- Generate QR codes
-
-\- Session countdown and automatic expiry
-
-\- Classroom location and attendance radius
-
-\- Department, semester, and section-based session eligibility
-
-\- Attendance monitoring
-
-\- Attendance history and reports
-
-\- Notifications
-
-\- Responsive dashboard
+### Teacher
 
 
 
-\### Admin
+- Secure teacher login
+
+- Teacher profile management
+
+- Create attendance sessions
+
+- Configure attendance duration
+
+- Generate QR codes
+
+- Session countdown and automatic expiry
+
+- Classroom location and attendance radius
+
+- Department, semester, and section-based session eligibility
+
+- Attendance monitoring
+
+- Attendance history and reports
+
+- Notifications
+
+- Responsive dashboard
 
 
 
-\- Secure admin login
-
-\- Student management
-
-\- Teacher management
-
-\- Attendance overview
-
-\- Dashboard statistics
-
-\- Timetable management
-
-\- Teacher account creation
-
-\- Teacher credential email workflow
+### Admin
 
 
 
-\## Attendance Verification
+- Secure admin login
+
+- Student management
+
+- Teacher management
+
+- Attendance overview
+
+- Dashboard statistics
+
+- Timetable management
+
+- Teacher account creation
+
+- Teacher credential email workflow
+
+
+
+## Attendance Verification
 
 
 
@@ -106,25 +106,25 @@ AttendAI uses multiple verification layers before attendance is recorded:
 
 
 
-1\. Student authentication
+1. Student authentication
 
-2\. Valid attendance session
+2. Valid attendance session
 
-3\. QR/session verification
+3. QR/session verification
 
-4\. Session expiry validation
+4. Session expiry validation
 
-5\. Department verification
+5. Department verification
 
-6\. Semester verification
+6. Semester verification
 
-7\. Section verification
+7. Section verification
 
-8\. GPS location verification
+8. GPS location verification
 
-9\. Face verification
+9. Face verification
 
-10\. Duplicate attendance prevention
+10. Duplicate attendance prevention
 
 
 
@@ -132,7 +132,7 @@ If a required verification fails, attendance is not recorded.
 
 
 
-\## System Architecture
+## System Architecture
 
 
 
@@ -184,7 +184,7 @@ If a required verification fails, attendance is not recorded.
 
                     Face Recognition
 
-
+```
 
 ## Screenshots
 
