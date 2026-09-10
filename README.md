@@ -203,8 +203,8 @@ If a required verification fails, attendance is not recorded.
 5. Attendance Record
 ![Attendance Record](docs/screenshots/Attendance_record.png)
 
-### Attendance Marked
+6. Attendance Marked
 ![Attendance Marked](docs/screenshots/Attendance_marked.png)
 
-### Reports & Analytics
+7. Reports & Analytics
 ![Reports and Analytics](docs/screenshots/Reports_analytics.png)
