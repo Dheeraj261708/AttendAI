@@ -138,49 +138,50 @@ If a required verification fails, attendance is not recorded.
 
 ```text
 
-&#x20;                   AttendAI Web Application
+                    AttendAI Web Application
 
-&#x20;                             |
+                              |
 
-&#x20;            +----------------+----------------+
+             +----------------+----------------+
 
-&#x20;            |                |                |
+             |                |                |
 
-&#x20;            v                v                v
+             v                v                v
 
-&#x20;       Student          Teacher            Admin
+        Student          Teacher            Admin
 
-&#x20;       Dashboard        Dashboard          Dashboard
+        Dashboard        Dashboard          Dashboard
 
-&#x20;            |                |                |
+             |                |                |
 
-&#x20;            +----------------+----------------+
+             +----------------+----------------+
 
-&#x20;                             |
+                              |
 
-&#x20;                             v
+                              v
 
-&#x20;                   Node.js + Express
+                    Node.js + Express
 
-&#x20;                        Backend
+                         Backend
 
-&#x20;                             |
+                              |
 
-&#x20;            +----------------+----------------+
+             +----------------+----------------+
 
-&#x20;            |                |                |
+             |                |                |
 
-&#x20;            v                v                v
+             v                v                v
 
-&#x20;         MongoDB         AI Service         Email
+          MongoDB         AI Service         Email
 
-&#x20;                        Flask / Python      Service
+                         Flask / Python      Service
 
-&#x20;                             |
+                              |
 
-&#x20;                             v
+                              v
 
-&#x20;                   DeepFace + ArcFace
+                    DeepFace + ArcFace
 
-&#x20;                   Face Recognition
+                    Face Recognition
+
 
